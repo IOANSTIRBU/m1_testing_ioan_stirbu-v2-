@@ -12,7 +12,7 @@ public class PerifericoMain {
         Scanner sc = new Scanner(System.in);
         boolean salir = false;
 
-        System.out.println("Espero que se ejecute");
+
         //Gestion de errores de try-catch para que no nos salgan las excepciones innecesarias
 
         while (!salir) {
