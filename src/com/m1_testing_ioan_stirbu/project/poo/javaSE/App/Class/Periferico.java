@@ -1,6 +1,6 @@
-package com.project.poo.javaSE.App.Class;
+package com.m1_testing_ioan_stirbu.project.poo.javaSE.App.Class;
 
-import com.project.poo.javaSE.App.Ordenador;
+import com.m1_testing_ioan_stirbu.project.poo.javaSE.App.Ordenador;
 
 import java.util.List;
 
@@ -94,6 +94,7 @@ public class Periferico extends Ordenador {
         return "Periferico{" +
                 "titulo='" + titulo + '\'' +
                 ", precio=" + precio +
+                ", promocion=" + promocion +
                 ", Extra de perifericos elegidos=" + perifericos +
                 ", color =" + super.getColor() +
                 ", tamanio =" + super.getTamanio() +
