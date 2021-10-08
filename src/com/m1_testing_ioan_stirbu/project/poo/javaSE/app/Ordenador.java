@@ -1,4 +1,4 @@
-package com.m1_testing_ioan_stirbu.project.poo.javaSE.App;
+package com.m1_testing_ioan_stirbu.project.poo.javaSE.app;
 
 public class Ordenador {
     protected String color;

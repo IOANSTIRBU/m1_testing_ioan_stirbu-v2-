@@ -1,7 +1,7 @@
-package com.m1_testing_ioan_stirbu.project.poo.javaSE.App;
+package com.m1_testing_ioan_stirbu.project.poo.javaSE.app;
 
-import com.m1_testing_ioan_stirbu.project.poo.javaSE.App.Class.Periferico;
-import com.m1_testing_ioan_stirbu.project.poo.javaSE.Enum.DaysAWeek;
+import com.m1_testing_ioan_stirbu.project.poo.javaSE.app.clase_y_main.Periferico;
+import com.m1_testing_ioan_stirbu.project.poo.javaSE.enumeradores.DaysAWeek;
 
 import java.util.*;
 

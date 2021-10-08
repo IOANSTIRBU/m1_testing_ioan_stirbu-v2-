@@ -1,6 +1,6 @@
-package com.m1_testing_ioan_stirbu.project.poo.javaSE.App.Class;
+package com.m1_testing_ioan_stirbu.project.poo.javaSE.app.clase_y_main;
 
-import com.m1_testing_ioan_stirbu.project.poo.javaSE.App.Ordenador;
+import com.m1_testing_ioan_stirbu.project.poo.javaSE.app.Ordenador;
 
 import java.util.List;
 
